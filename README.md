@@ -10,4 +10,4 @@ Clone with : `Git clone github.com/MyCode83/MyFirstWeb`
 ## Requirements
 - a browser
 ## Screen-shot
-  !(github.com/MyCode83/MyFirstWeb/edit/main/Screenshot.png)
+  ![Screenshot](Screenshot.png)
